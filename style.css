@@ -1,0 +1,21 @@
+body{
+    background-color: #CFB997;
+}
+.bio{
+    font-size: 20px;
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.poto, img{
+    width: 30%;
+    margin-left: 33%;
+}
+.iklan, img{
+    width: 76%;
+}
+.text{
+    font-size: 40px;
+}
+.medsoc{
+    font-size: 20px;
+}
